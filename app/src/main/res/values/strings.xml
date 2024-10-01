@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudentsExemple</string>
+    <string name="insira_a_rea_de_escolha">Insira a área de escolha</string>
+    <string name="inserir">Inserir</string>
+    <string name="_0">0</string>
+    <string name="alunos">Alunos</string>
+    <string name="zerar">Zerar</string>
+    <string name="rea_de_escolha">Área de escolha</string>
+    <string name="insira_o_nome_do_aluno">Insira o nome do aluno</string>
+    <string name="nome_do_aluno">Nome do Aluno</string>
+</resources>
